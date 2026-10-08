@@ -12,8 +12,8 @@ Streamlit 화면 → FastAPI Backend → AI 진단 파이프라인
 ```
 
 팀 프로젝트이며, 하지훈의 백엔드 작업 이력에는 FastAPI polling 서버와
-진단 요청·결과 저장을 위한 데이터 모델·스키마·API가 포함되어 있습니다.
-이 저장소는 프로젝트 소개와 보고서 중심으로 정리하고 실제 코드는 팀 원본으로 연결합니다.
+진단 요청·결과 저장을 위한 데이터 모델·스키마·API가 포함됩니다.
+구현 소스는 아래 팀 저장소에서 관리합니다.
 
 ## 원본 저장소
 
@@ -22,9 +22,6 @@ Streamlit 화면 → FastAPI Backend → AI 진단 파이프라인
 | AI 진단 서버 | [RAGstar-sogang/AI-server](https://github.com/RAGstar-sogang/AI-server) |
 | Backend | [RAGstar-sogang/Backend-Server](https://github.com/RAGstar-sogang/Backend-Server) |
 | Frontend | [RAGstar-sogang/Frontend-server](https://github.com/RAGstar-sogang/Frontend-server) |
-
-과거 로컬 체크아웃에는 `Web-server`라는 이름의 remote도 있으므로 현재 링크는
-GitHub 계정에서 확인한 저장소 이름으로 기록했습니다.
 
 ## 시작하기
 
@@ -35,8 +32,7 @@ git clone https://github.com/RAGstar-sogang/Frontend-server.git
 ```
 
 각 서버의 의존성, 로컬 모델·DB와 환경 변수 설정은 해당 팀 저장소 README를 따릅니다.
-AI 서버에는 모델·지식 베이스 등의 별도 자원이 필요하므로 이 소개 저장소만으로
-전체 시스템을 구동할 수 있는 것으로 표시하지 않습니다.
+AI 서버 실행에는 로컬 모델과 지식 베이스가 필요합니다. 이 저장소에는 설계·발표 자료가 포함됩니다.
 
 ## 결과 자료
 
@@ -45,5 +41,3 @@ AI 서버에는 모델·지식 베이스 등의 별도 자원이 필요하므로
 - [개인 기술 보고서](docs/technical-report.docx)
 - [팀 최종 발표](docs/presentation.pptx)
 - [과목 강의계획서](../docs/syllabus.pdf)
-
-2026-1학기 강의계획서의 공식 과목코드는 `CSE4187`입니다.
