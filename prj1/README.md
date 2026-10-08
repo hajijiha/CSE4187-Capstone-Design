@@ -36,6 +36,7 @@ AI 서버 실행에는 로컬 모델과 지식 베이스가 필요합니다. 이
 
 ## 결과 자료
 
+- [프로젝트 요약: 목표·범위·수행 결과](docs/project-summary.pdf)
 - [ERD](docs/erd.pdf)
 - [프로젝트 포스터](docs/poster.pdf)
 - [개인 기술 보고서](docs/technical-report.docx)

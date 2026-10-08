@@ -12,9 +12,9 @@
 
 ## 프로젝트
 
-| 순서 | 프로젝트 | 구현 내용 |
-|---|---|---|
-| [prj1](prj1/README.md) | RAGstar | 온프레미스 OOM 장애 진단 파이프라인 |
+| 순서 | 프로젝트 | 구현 내용 | 과제 자료 |
+|---|---|---|---|
+| [prj1](prj1/README.md) | RAGstar | 온프레미스 OOM 장애 진단 파이프라인 | [프로젝트 요약](prj1/docs/project-summary.pdf) |
 
 ## 저장소 구조
 
