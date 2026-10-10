@@ -11,13 +11,12 @@ Streamlit 화면 → FastAPI Backend → AI 진단 파이프라인
                  진단 이력         ChromaDB / Local LLM
 ```
 
-팀 프로젝트이며, 하지훈의 백엔드 작업 이력에는 FastAPI polling 서버와
-진단 요청·결과 저장을 위한 데이터 모델·스키마·API가 포함됩니다.
-구현 소스는 아래 팀 저장소에서 관리합니다.
+팀 프로젝트에서 백엔드를 담당했습니다. FastAPI polling 서버와
+진단 요청·결과 저장용 데이터 모델·스키마·API를 구현했습니다.
 
-## 원본 저장소
+## 구현 저장소
 
-| 구성 | 원본 |
+| 구성 | 저장소 |
 |---|---|
 | AI 진단 서버 | [RAGstar-sogang/AI-server](https://github.com/RAGstar-sogang/AI-server) |
 | Backend | [RAGstar-sogang/Backend-Server](https://github.com/RAGstar-sogang/Backend-Server) |
@@ -31,8 +30,8 @@ git clone https://github.com/RAGstar-sogang/AI-server.git
 git clone https://github.com/RAGstar-sogang/Frontend-server.git
 ```
 
-각 서버의 의존성, 로컬 모델·DB와 환경 변수 설정은 해당 팀 저장소 README를 따릅니다.
-AI 서버 실행에는 로컬 모델과 지식 베이스가 필요합니다. 이 저장소에는 설계·발표 자료가 포함됩니다.
+각 서버의 설치·환경 설정은 해당 저장소 README를 참고합니다.
+AI 서버에는 로컬 모델과 지식 베이스가 필요합니다.
 
 ## 결과 자료
 

@@ -1,6 +1,6 @@
 # CSE4187 · 캡스톤디자인 (RAGstar)
 
-온프레미스 OOM 장애 진단 시스템 RAGstar의 설계·발표 자료와 팀 저장소 링크입니다.
+온프레미스 OOM 장애 진단 시스템 RAGstar를 개발한 팀 프로젝트입니다.
 
 | 항목 | 내용 |
 |---|---|
@@ -25,9 +25,4 @@ CSE4187-Capstone-Design/
 ├── prj1/  # RAGstar
 ```
 
-## 자료 출처
-
-설계·발표 자료는 RAGstar 팀 프로젝트의 결과물입니다.
-구현 코드는 팀 저장소에서 관리하며, 팀원별 저작물의 권리는 각 작성자에게 있습니다.
-
-[빌드 및 테스트](docs/verification.md)
+[검증 기록](docs/verification.md)
